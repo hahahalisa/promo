@@ -79,17 +79,6 @@ p {
 	margin-top:30px;
 }
 
-.discographytext {
-	position: absolute;
- 	top: 732%;
- 	left: 50%;
- 	transform: translate(-50%, -50%);
-	font-family: Computer Pixel-7;
-	font-size: 50pt;
-	-webkit-text-stroke: 3px blue;
-	color: blue;
-
-}
 
 .column {
 	float: left;
